@@ -1,0 +1,20 @@
+.titulo{
+    padding: 1px 1px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    color: rgb(255, 255, 255);
+
+}
+
+.subtitulo{
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+    
+    list-style-type: square;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
